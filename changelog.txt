@@ -1,0 +1,14 @@
+= 1.0.3 - 2024-03-23 =
+* Added choice Meta Key and Value
+* Added css for Export Orders in Admin
+* Added choice Meta Key and Value
+
+= 1.0.2 - 2024-03-04 =
+* Added Vue and Vue-Multiselect
+
+= 1.0.1 - 2024-02-21 =
+* Added new fields for csv option (Name, Email, Phone)
+* Export to CSV
+
+= 1.0.0 - 2024-02-16 =
+* First release.
